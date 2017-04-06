@@ -24,7 +24,13 @@ IEEE@IIT's Executive Board elections are open!! Choose who will be taking the de
 
 <strong>Reasons behind this candidate's nomination: </strong>Burhan is very motivated and motivational. He can definitely make a great leader and take IEEE to new levels.
 
-<strong>Candidate's qualifications: </strong>He has been the vice president for the past year and has excelled at his job. He knows really well the administrative side of IEEE.
+<strong>Candidate's qualifications: </strong>
+<ol>
+	<li>Vice President of IEEE (2016-Present)</li>
+	<li>Internal Secretary of IEEE (2015-2016)</li>
+	<li>Internal and External Secretary of Eta Kappa Nu (2016-Present)</li>
+	<li>Treasurer of Pakistan Student Association (2015-Present)</li>
+</ol>
 
 <br />
 
@@ -105,7 +111,7 @@ Past leadership experiences include:
 
 <strong>Position(s) running for: </strong>Internal Secretary
 
-<strong>Reasons behind this candidate's nomination: </strong>I am a third year undergraduate majoring in electrical engineering. I am passionate about electrical engineering and want to experience and learn something new. IEEE is a great platform to connect with fellow ECE majors and learn something from them. I also want to contribute something back to IEEE by helping the Board members in anyway possible.
+<strong>Reasons behind this candidate's nomination: </strong>N/A
 
 <strong>Candidate's qualifications: </strong>Previous experience in executive board. Worked as rock climbing club student advisor. 
 
